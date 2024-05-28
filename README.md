@@ -15,10 +15,14 @@ b1: tìm free api
 
 b2:get request
 - request Get
-![feature-image]([D:\study\đánh giá và kiểm định chất lượng phần mềm\btkiemthu-main\1.png](https://github.com/Kien1804/btkiemthungay28/blob/master/1.png))
+
+![feature-image]([(https://github.com/Kien1804/btkiemthungay28/blob/master/1.png))
+
 - Post
-![image](D:\study\đánh giá và kiểm định chất lượng phần mềm\btkiemthu-main\2.png)
+![feature-image]([https://github.com/Kien1804/btkiemthungay28/blob/master/2.png))
+
 - Put 
-![image](D:\study\đánh giá và kiểm định chất lượng phần mềm\btkiemthu-main\3.png)
+![feature-image]([https://github.com/Kien1804/btkiemthungay28/blob/master/3.png))
+
 - Delete
 
