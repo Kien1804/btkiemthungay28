@@ -14,8 +14,8 @@ Postman hiện là một trong những công cụ phổ biến nhất được s
 b1: tìm free api
 
 b2:get request
-- Get
-![image](D:\study\đánh giá và kiểm định chất lượng phần mềm\btkiemthu-main\1.png)
+- request Get
+![feature-image]([D:\study\đánh giá và kiểm định chất lượng phần mềm\btkiemthu-main\1.png](https://github.com/Kien1804/btkiemthungay28/blob/master/1.png))
 - Post
 ![image](D:\study\đánh giá và kiểm định chất lượng phần mềm\btkiemthu-main\2.png)
 - Put 
