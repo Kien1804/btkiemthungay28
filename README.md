@@ -16,13 +16,13 @@ b1: tìm free api
 b2:get request
 - request Get
 
-![feature-image]([(https://github.com/Kien1804/btkiemthungay28/blob/master/1.png))
+![image]([(https://github.com/Kien1804/btkiemthungay28/blob/master/1.png))
 
 - Post
-![feature-image]([https://github.com/Kien1804/btkiemthungay28/blob/master/2.png))
+![image]([https://github.com/Kien1804/btkiemthungay28/blob/master/2.png))
 
 - Put 
-![feature-image]([https://github.com/Kien1804/btkiemthungay28/blob/master/3.png))
+![image]([https://github.com/Kien1804/btkiemthungay28/blob/master/3.png))
 
 - Delete
 
